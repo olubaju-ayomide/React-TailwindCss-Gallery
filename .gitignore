@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+.env
 
 # testing
 /coverage
@@ -23,4 +24,3 @@ yarn-debug.log*
 yarn-error.log*
 
 # .env
-REACT_APP_PIXABAY_API_KEY=29668349-43df253b45cfd344ce9a066e9
